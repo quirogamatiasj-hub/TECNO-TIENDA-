@@ -1,0 +1,172 @@
+[
+  {
+    "id": "pc-oficina",
+    "nombre": "PC Oficina Básica",
+    "categoria": "computadoras",
+    "descripcion": "Intel Core i3, 8 GB RAM, SSD 256 GB",
+    "precio": 450,
+    "imagen": "img/pc basica.png",
+    "stock": 8,
+    "destacado": 1
+  },
+  {
+    "id": "pc-hogar",
+    "nombre": "PC Hogar Plus",
+    "categoria": "computadoras",
+    "descripcion": "Ryzen 5, 16 GB RAM, SSD 512 GB",
+    "precio": 650,
+    "imagen": "img/240__1_-removebg-preview.png",
+    "stock": 6,
+    "destacado": 1
+  },
+  {
+    "id": "pc-todo-uno",
+    "nombre": "PC Todo en Uno",
+    "categoria": "computadoras",
+    "descripcion": "Pantalla 24 pulgadas, Core i5, 16 GB RAM",
+    "precio": 850,
+    "imagen": "img/pc en uno.png",
+    "stock": 4,
+    "destacado": 0
+  },
+  {
+    "id": "laptop-estudiante",
+    "nombre": "Laptop Estudiante",
+    "categoria": "laptops",
+    "descripcion": "Ryzen 3, 8 GB RAM, SSD 256 GB",
+    "precio": 400,
+    "imagen": "img/A8X5S2511110Z4BPK2A-removebg-preview.png",
+    "stock": 7,
+    "destacado": 1
+  },
+  {
+    "id": "laptop-trabajo",
+    "nombre": "Laptop Trabajo",
+    "categoria": "laptops",
+    "descripcion": "Core i5, 16 GB RAM, SSD 512 GB",
+    "precio": 700,
+    "imagen": "img/lenovo-yoga-7a-2-in-1-14inch-desktop-removebg-preview (1).png",
+    "stock": 5,
+    "destacado": 0
+  },
+  {
+    "id": "laptop-gamer",
+    "nombre": "Laptop Gamer RTX 4050",
+    "categoria": "laptops",
+    "descripcion": "Ryzen 7, RTX 4050 6 GB, 16 GB RAM",
+    "precio": 1100,
+    "imagen": "img/s-l500-removebg-preview.png",
+    "stock": 3,
+    "destacado": 1
+  },
+  {
+    "id": "pc-inicial",
+    "nombre": "Armado Inicial",
+    "categoria": "pc-armados",
+    "descripcion": "Ryzen 5 5600, 16 GB RAM, SSD 500 GB",
+    "precio": 600,
+    "imagen": "img/Captura_de_Pantalla_2023-08-14_a_la_s__9.39.59-removebg-preview.png",
+    "stock": 4,
+    "destacado": 0
+  },
+  {
+    "id": "pc-gamer",
+    "nombre": "Armado Gamer",
+    "categoria": "pc-armados",
+    "descripcion": "Core i5, RTX 4060 8 GB, 16 GB RAM, SSD 1 TB",
+    "precio": 1000,
+    "imagen": "img/pc gamer alta.png",
+    "stock": 3,
+    "destacado": 1
+  },
+  {
+    "id": "pc-creador",
+    "nombre": "Armado Creador",
+    "categoria": "pc-armados",
+    "descripcion": "Ryzen 9, RTX 4070 12 GB, 32 GB RAM, SSD 2 TB",
+    "precio": 1800,
+    "imagen": "img/pc creador matador.png",
+    "stock": 2,
+    "destacado": 0
+  },
+  {
+    "id": "gpu-3050",
+    "nombre": "GeForce RTX 3050 6 GB",
+    "categoria": "gpu",
+    "descripcion": "Juegos en 1080p y bajo consumo",
+    "precio": 250,
+    "imagen": "img/pny-geforce-rtx-3050-6gb-ra-2.webp",
+    "stock": 9,
+    "destacado": 0
+  },
+  {
+    "id": "gpu-4060",
+    "nombre": "GeForce RTX 4060 8 GB",
+    "categoria": "gpu",
+    "descripcion": "1080p ultra y DLSS 3",
+    "precio": 400,
+    "imagen": "img/HWD3123681.webp",
+    "stock": 6,
+    "destacado": 1
+  },
+  {
+    "id": "gpu-4070",
+    "nombre": "GeForce RTX 4070 12 GB",
+    "categoria": "gpu",
+    "descripcion": "1440p y diseño 3D",
+    "precio": 700,
+    "imagen": "img/4070.png",
+    "stock": 3,
+    "destacado": 0
+  },
+  {
+    "id": "gpu-rx7600",
+    "nombre": "Radeon RX 7600 8 GB",
+    "categoria": "gpu",
+    "descripcion": "1080p ultra y buen rendimiento",
+    "precio": 330,
+    "imagen": "img/radeon-removebg-preview graf.png",
+    "stock": 5,
+    "destacado": 0
+  },
+  {
+    "id": "cpu-i3",
+    "nombre": "Core i3-12100",
+    "categoria": "cpu",
+    "descripcion": "4 núcleos, para estudio y tareas diarias",
+    "precio": 120,
+    "imagen": "img/sin fondo/i3.png",
+    "stock": 10,
+    "destacado": 0
+  },
+  {
+    "id": "cpu-r55600",
+    "nombre": "Ryzen 5 5600",
+    "categoria": "cpu",
+    "descripcion": "6 núcleos, equilibrio entre precio y potencia",
+    "precio": 150,
+    "imagen": "img/sin fondo/r5.png",
+    "stock": 8,
+    "destacado": 1
+  },
+  {
+    "id": "cpu-i5",
+    "nombre": "Core i5-12400F",
+    "categoria": "cpu",
+    "descripcion": "6 núcleos, ideal para juegos",
+    "precio": 190,
+    "imagen": "img/sin fondo/i5.png",
+    "stock": 7,
+    "destacado": 0
+  },
+  {
+    "id": "cpu-r75700x",
+    "nombre": "Ryzen 7 5700X",
+    "categoria": "cpu",
+    "descripcion": "8 núcleos, programación y edición",
+    "precio": 260,
+    "imagen": "img/sin fondo/2324-amd-ryzen-7-5700X-5-removebg-preview (1).png",
+    "stock": 4,
+    "destacado": 0
+  }
+]
